@@ -1,4 +1,5 @@
 # One hashtag for main header in markdown (md) formatting language
 Some plain text!
 Some more plan text.
-View commits
+
+A line was deleted (red highlight in commit history); this line was added (green highlight in commit history)
